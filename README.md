@@ -76,7 +76,7 @@ elif(np.sum(V2>=V1)==7):
   print("The second policy has the better policy")
 else:
   print("Both policies have their merits.")
-~~~
+```
 ## OUTPUT:
 ### POLICY 1
 Policy 1
